@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Fantasy Scraper",
+    "description": "Quickly view fantasy stats on the same page as your fantasy team.",
+    "version": "1.0",
+      "icons": {
+        "16": "img/football_16.png",
+        "32": "img/football_32.png"
+      },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "img/football_16.png",
+            "32": "img/football_32.png"
+        }
+  },
+  "permissions": ["activeTab"]
+}
